@@ -1,1 +1,28 @@
 
+# Searching Practice
+
+This folder contains notebooks and scripts where I practice **searching algorithms** in Python.  
+Searching algorithms are used to find the location of a target value within a collection of data.
+
+##  Topics Practiced
+- **Linear Search**  
+  - Simple method, checks elements one by one.
+- **Binary Search**  
+  - Efficient method for sorted data, divides search space in half.
+- **Jump Search**  
+  - Uses fixed jumps to speed up searching in sorted arrays.
+- **Interpolation Search**  
+  - Improves over binary search by estimating the position of the target.
+- **Exponential Search**  
+  - Efficient for unbounded or infinite lists.
+
+## 🛠 Purpose
+The goal of this practice is to:
+- Learn and compare different searching techniques
+- Analyze time complexities of search algorithms
+- Build problem-solving skills for competitive programming and interviews
+
+
+---
+
+*This practice is part of my Data Structures and Algorithms (DSA) learning journey.*
