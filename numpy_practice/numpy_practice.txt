@@ -1,1 +1,24 @@
 
+# NumPy Practice
+
+This folder contains notebooks and scripts where I practice using **NumPy** for numerical computing in Python.  
+NumPy is a powerful library that provides fast, vectorized operations on arrays, along with many built-in mathematical functions.
+
+## Topics Practiced
+- Creating and manipulating arrays
+- Indexing, slicing, and reshaping
+- Mathematical operations (sum, mean, standard deviation, etc.)
+- Broadcasting and vectorized computations
+- Random number generation
+- Linear algebra operations (dot product, matrix multiplication, etc.)
+
+##  Purpose
+The goal of this practice is to:
+- Build a solid foundation in using NumPy arrays
+- Learn efficient ways to handle numerical data
+- Prepare for data science and machine learning workflows where NumPy is a core tool
+
+
+---
+
+*This practice is part of my Python learning journey.*
