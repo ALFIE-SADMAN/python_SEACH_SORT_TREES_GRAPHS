@@ -1,1 +1,29 @@
 
+# Pandas Practice
+
+This folder contains notebooks and scripts where I practice using **Pandas**, the essential Python library for data manipulation and analysis.  
+Pandas makes it easy to work with structured data using **DataFrames** and **Series**.
+
+##  Topics Practiced
+- Creating and exploring DataFrames
+- Reading and writing data (CSV, Excel, JSON, etc.)
+- Indexing, selecting, and filtering data
+- Handling missing values
+- Grouping and aggregations
+- Sorting and ranking
+- Merging and joining DataFrames
+- Time series data handling
+
+## 🛠️ Purpose
+The goal of this practice is to:
+- Develop strong data wrangling and cleaning skills
+- Learn how to explore and analyze datasets effectively
+- Prepare for real-world applications in data science and machine learning
+
+##  Files
+- `intro_to_pandas.ipynb` → Basics of Pandas DataFrames and Series
+- (Add more files here as you practice)
+
+---
+
+*This practice is part of my Python learning journey.*
