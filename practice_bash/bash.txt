@@ -1,1 +1,31 @@
 
+# Bash Practice
+
+This folder contains scripts and notes where I practice **Bash scripting**.  
+Bash (Bourne Again SHell) is a command-line interpreter that allows automation of tasks, file manipulation, and system management.
+
+##  Topics Practiced
+- Basic shell commands (ls, cd, pwd, etc.)
+- File and directory operations
+- Variables and user input
+- Conditional statements (if, else, elif)
+- Loops (for, while, until)
+- Functions in Bash
+- Piping and redirection
+- Working with permissions
+- Writing simple automation scripts
+
+##  Purpose
+The goal of this practice is to:
+- Strengthen command-line skills
+- Automate repetitive tasks
+- Learn scripting fundamentals useful for DevOps, system administration, and data pipelines
+
+##  Files
+- `hello_world.sh` → First Bash script
+- `file_operations.sh` → Creating, moving, and deleting files
+- (Add more scripts as you practice)
+
+---
+
+*This practice is part of my journey to improve scripting and automation skills.*
